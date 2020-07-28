@@ -3,4 +3,4 @@
 modify by xcz
 Creating a new branch is quick and simple.
 add merge
-add child
+add child!
